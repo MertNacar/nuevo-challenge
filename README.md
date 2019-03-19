@@ -2,7 +2,6 @@
 GET-POST with MockAPI / Search List Items simply / No RegExp and Design
 
 ## Getting Started
-Set .babelrc and webpack.config 
 
 You should follows these steps in the root terminal
 

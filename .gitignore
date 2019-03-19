@@ -6,10 +6,6 @@
 .pnp.js
 
 
-
-.babelrc
-webpack.config.js
-
 # testing
 /coverage
 

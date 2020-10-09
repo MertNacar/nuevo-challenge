@@ -1,5 +1,6 @@
-# React 
-GET-POST with MockAPI / Search List Items simply / No RegExp and Design
+# Nuevo Challenge 
+This project is made with React and consists 3 pages these are main, create and detail pages. Using mockApi for data. <br>
+you can see detail of a book on detail page, create a book on create page and search the list items simply. No RegExp and design
 
 ## Getting Started
 
